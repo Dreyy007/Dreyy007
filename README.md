@@ -2,7 +2,7 @@
 
 **`Desenvolvedor e Programador Junior`**
 
-🎓 Estudante do 4º semestre de **Análise e Desenvolvimento de Sistemas** na **Faculdade Estácio**  
+🎓 Estudante do 6º semestre de **Análise e Desenvolvimento de Sistemas** na **Faculdade Estácio**  
 💼 Experiência como **Jovem Aprendiz em Finance** e **Estagiário em Property** na **Swiss Re**  
 📍 São Paulo – Brasil  
 
