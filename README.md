@@ -32,7 +32,7 @@ Tenho experiência prática em **relatórios, planilhas, análises, despesas fin
 ## 📫 Como me encontrar  
 
 - 📧 **E-mail:** andreyandradeproenca@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com)   "[Andrey Andrade](https://www.linkedin.com/in/andrey-andrade-59aaa4264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 [**LinkedIn**](https://www.linkedin.com)   "[Andrey Andrade](https://www.linkedin.com/in/andrey-andrade-59aaa4264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"
 - 🐙 [**GitHub**](https://github.com/Dreyy007)  
 
 ---
