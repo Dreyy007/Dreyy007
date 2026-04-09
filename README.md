@@ -3,7 +3,7 @@
 **`Desenvolvedor e Programador Junior`**
 
 🎓 Estudante do 6º semestre de **Análise e Desenvolvimento de Sistemas** na **Faculdade Estácio**  
-💼 Experiência como **Jovem Aprendiz em Finance** e **Estagiário em Property** na **Swiss Re**  **Operador de Teleatendimento** na **Fleury** **Auxiliar de suporte** na **MyTraking**  
+💼 Experiência como **Jovem Aprendiz em Finance** e **Estagiário em Property** na **Swiss Re** e **Operador de Teleatendimento** na **Fleury** e **Auxiliar de suporte** na **MyTraking**  
 📍 São Paulo – Brasil  
 
 ---
