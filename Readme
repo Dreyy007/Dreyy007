@@ -1,0 +1,25 @@
+# 🧠 Sistema de Gestão para Clínica de Psicologia
+
+Sistema desenvolvido para gerenciamento de uma clínica de psicologia, permitindo organizar atendimentos, pacientes e profissionais.
+
+## Funcionalidades
+- Cadastro de pacientes
+- Cadastro de psicólogos
+- Agendamento de sessões
+- Acompanhamento de atendimentos
+- Organização de dados da clínica
+
+## Tecnologias
+- Python
+- Flask
+- HTML/CSS
+- SQLite
+
+## Como rodar o projeto
+1. Clone o repositório
+2. Instale as dependências
+3. Execute o comando:
+
+```bash
+python app.py
+```
