@@ -174,6 +174,32 @@ def logout():
     session.clear()
     return redirect("/")
 
+# MÉDICOS 
+@app.route("/medicos")
+def medicos():
+    return render_template("medicos.html")
+
+
+@app.route("/servicos")
+def servicos():
+    return render_template("servicos.html")
+
+@app.route("/contato")
+def contato():
+    return render_template("contato.html")
+
+@app.route("/exames")
+def exames():
+    return render_template("exames.html")
+
+@app.route("/checkup")
+def checkup():
+    return render_template("checkup.html")
+
+@app.route("/consultas")
+def consultas():
+    return render_template("consultas.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
+
