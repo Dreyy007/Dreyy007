@@ -5,7 +5,7 @@
 🎓 Estudante do 6º semestre de **Análise e Desenvolvimento de Sistemas** na **Faculdade Estácio**  
 💼 Experiência como **Jovem Aprendiz em Finance** e **Estagiário em Property** na **Swiss Re** e **Operador de Teleatendimento** na **Fleury** e **Auxiliar de suporte** na **MyTraking**  
 📍 São Paulo – Brasil  
-
+ Bio: Dev Jr | Python · Node.js · IA · Cloud | Resolvendo problemas reais com código
 ---
 
 ## ✨ Sobre mim  
